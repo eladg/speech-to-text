@@ -412,7 +412,7 @@ export default React.createClass({
         </div>
 
         <div>
-          <iframe id="player" type="text/html" width="100%" height="360px" src="http://www.youtube.com/embed/NugRZGDbPFU" frameborder="0"></iframe>
+          <iframe id="player" type="text/html" width="100%" height="360px" src="https://www.youtube.com/embed/NugRZGDbPFU" frameborder="0"></iframe>
         </div>
 
         <div className="flex setup">
